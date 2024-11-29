@@ -24,7 +24,8 @@ Government of Gujarat
 
 
 ## Proposed Solution / Architecture Diagram
-![2-Figure1-1](https://github.com/user-attachments/assets/289204fb-5bc9-4807-8b57-cda7b1efb978)
+![2-Figure1-1](https://github.com/user-attachments/assets/97f5f7b8-e544-4eb6-b156-675cd915e43d)
+
 
 
 
