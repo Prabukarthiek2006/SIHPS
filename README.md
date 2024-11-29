@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 29-11-2024
+## Register Number: 24010663
+## Name: Prabu Karthiek B
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,42 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Web and Mobile Integration:
+     A platform that offers seamless user experience across devices, enabling alumni to connect and contribute easily.
+2. Alumni Networking:
+    Connect alumni based on shared interests or locations to facilitate mentorship and collaboration.
+3. Philanthropic Culture:
+    Encourage donations through a secure and transparent system, promoting institutional development.
+4. Job Opportunities:
+    Help alumni advance their careers by providing job postings and search capabilities.
+5. Engagement and Recognition:
+    Increase alumni pride by showcasing their achievements and organizing events.
+
 
 
 ## Proposed Solution / Architecture Diagram
+![2-Figure1-1](https://github.com/user-attachments/assets/289204fb-5bc9-4807-8b57-cda7b1efb978)
+
 
 
 ## Use Cases
+![Use-Case-Diagram-of-Alumni-Data-Collection-Information-System](https://github.com/user-attachments/assets/93ba1e8c-91d7-464a-bda0-824642a121da)
+
 
 
 ## Technology Stack
-
+1. Frontend: React.js (Web), Flutter (Mobile).
+2. Backend: Node.js with Express.js.
+3. Database: PostgreSQL, MongoDB.
+4. Authentication: Firebase Authenticator or OAuth.
+5. APIs: Google Maps API for location services.
+6. DevOps Tools: Git, Jenkins, Postman, or Insomnia for development and testing.
 
 ## Dependencies
+1. Frontend and Backend Development: 40 days.
+2. Database Setup: 15 days.
+3. API Integration (e.g., Google Maps): 10 days.
+4. Testing and Deployment: 20 days.
+5. Budget: Rs. 1,00,000.
+
 
